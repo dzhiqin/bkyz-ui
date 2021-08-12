@@ -40,6 +40,7 @@
 
 <script>
 export default {
+  name: 'TestButtons',
   methods: {
     jump (e) {
       console.log(e)

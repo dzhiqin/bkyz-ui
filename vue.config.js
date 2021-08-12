@@ -3,7 +3,7 @@ const path = require('path')
 module.exports = {
   pages: {
     index: {
-      entry: 'test/main.js',
+      entry: 'local/main.js',
       template: 'public/index.html',
       filename: 'index.html'
     }
